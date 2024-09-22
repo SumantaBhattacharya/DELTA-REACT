@@ -1,0 +1,33 @@
+@font-face {
+    font-family: 'Space Grotesk';
+    src: url('./space-grotesk_5.0.16_latin-300-normal.woff2') format('woff2');
+    font-weight: 300;
+    font-style: normal;
+  }
+
+  *{
+    padding: 0.1vw;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Space Grotesk', sans-serif;
+  }
+  
+  html,body{
+    height: 100%;
+    width: 100%;
+  }
+
+  .all-comments{
+    border: 2px solid black;
+    border-radius: 10px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    width: 40vw;
+    margin: 1vw auto;
+  }
+
+
+  

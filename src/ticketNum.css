@@ -1,0 +1,18 @@
+*{
+    padding: 0;
+    margin: 0
+}
+
+
+.ticket-number {
+    font-size: 2em;
+    font-weight: bold;
+    margin: 10px 0;
+    color: #333;
+    text-align: center;
+    letter-spacing: 0.2em;
+    text-shadow: 2px 2px 2px rgba(0, 0, 0, 0.2);
+    transition: color 0.3s ease-in-out;
+
+}
+  

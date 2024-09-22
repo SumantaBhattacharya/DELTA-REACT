@@ -1,0 +1,32 @@
+/* C:\Users\SUDIP BHATTACHARYA\Desktop\Vite\react-state-class\src\ticket.css */
+/* ticket.css */
+
+*{
+  padding: 1vw;
+  margin: 0;
+  box-sizing: border-box;
+  
+}
+
+h1{
+  font-size: 2rem;
+  text-align: center;
+  font-family: 'Luckiest Guy', cursiv;
+  color: #ff0028;
+}
+
+.ticket {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #f4f4f4;
+  padding: 10px;
+  border-radius: 5px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  width: 31vw;
+  flex-direction: row;
+  gap: 2vw;
+  margin: 1vw auto auto auto; /* Center horizontally */
+}
+
+
