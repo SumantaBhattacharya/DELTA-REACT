@@ -382,4 +382,5 @@ npm install formik
 
 *Data Fetching, setting up a subscription, and manually changing the DOM in React components are all example of side effects*
 
+[![Delta Certificate](https://media.licdn.com/dms/image/v2/D562DAQG_i3ZDya1b9g/profile-treasury-image-shrink_800_800/B56ZkkumhtI4AY-/0/1757257824837?e=1758085200&v=beta&t=MwrDjSMF2Kr7UIKr24ryHe1R7TKDEty-Rw_iLpc_sI4)](https://media.licdn.com/dms/image/v2/D562DAQG_i3ZDya1b9g/profile-treasury-image-shrink_800_800/B56ZkkumhtI4AY-/0/1757257824837?e=1758085200&v=beta&t=MwrDjSMF2Kr7UIKr24ryHe1R7TKDEty-Rw_iLpc_sI4)
 
